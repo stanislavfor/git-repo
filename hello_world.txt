@@ -1,3 +1,4 @@
-﻿print ("hello world")
-print ("hello world there")
-print ("good day to everybody")
+﻿print ("hello world");
+print ("hello world there");
+print ("good day to everybody");
+print ("sunny for everything");
